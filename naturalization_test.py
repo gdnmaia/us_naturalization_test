@@ -1,7 +1,3 @@
-#### Ex36 - Designing and Debugging ####
-#### Design your own game using best practices recommended by the author ####
-#### An also implementing most of the commands tauch so far in the book #####
-
 import fuzzywuzzy
 from fuzzywuzzy import fuzz
 import random
