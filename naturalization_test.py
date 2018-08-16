@@ -1,6 +1,4 @@
-#### Ex36 - Designing and Debugging ####
-#### Design your own game using best practices recommended by the author ####
-#### An also implementing most of the commands tauch so far in the book #####
+#### G D. Maia - 2018 - Designing and Debugging ####
 
 import fuzzywuzzy
 from fuzzywuzzy import fuzz
@@ -761,6 +759,6 @@ def INTEGRATED_CIVICS_Holidays():
 		INTEGRATED_CIVICS_Geography()
 	
 	
-	
+start()
 	
 	
